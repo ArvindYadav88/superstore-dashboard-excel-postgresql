@@ -3,7 +3,7 @@
 An interactive business intelligence dashboard built using **Excel** for visualization and **PostgreSQL** for data analysis. This project analyzes the Superstore dataset to track Sales, Profit, Orders, and Customer behavior.
 
 # 📊 Dashboard Preview
-[Superstore Dashboard]([screenshots/dashboard_preview.png](https://github.com/ArvindYadav88/superstore-dashboard-excel-postgresql/blob/main/screenshorts/dashboard_preview.png))
+[Superstore Dashboard](C:\Users\yadav\OneDrive\Desktop\python\Excel_dashboard\dashboard_preview.png)
 
 *Interactive Excel Dashboard with KPI Cards, Charts, Slicers and Monthly Trend Analysis*
 
